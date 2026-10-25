@@ -1,0 +1,6 @@
+"""Robot Wars game engine."""
+
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+EXAMPLES_DIR = ROOT / "examples"

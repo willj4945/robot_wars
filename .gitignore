@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+dist/
+results/
+.pytest_cache/
+
+# Teacher-only: keep the boss secret and student work private
+boss/
+bots/*.py
